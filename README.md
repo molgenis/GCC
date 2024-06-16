@@ -5,7 +5,7 @@ Some guidance:
 
 1. We use [labels](https://github.com/molgenis/GCC/labels) to categorize
 * blue labels for standup teams (currently 'portal','catalogue','development')
-* yellow labels for components (e.g. 'directory', 'platform', 'ssr-catalogue')
+* yellow labels for components (e.g. 'directory', 'platform', 'ssr-catalogue','graphql")
 * green labels for communities (e.g. 'ern', 'biobanks','cohorts')
 * 
 
