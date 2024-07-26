@@ -12,15 +12,14 @@ A clear and concise description of what this change aims to achieve and for whom
 - [] ...
 
 
-**Proposed changes/demo**
+**Proposed demo when done**
 A clear and concise proposal of what the demo might show:
 - [] ...
 
 
-**Requirements and consideratioins**
-A clear and concise description of any alternative solutions or features you've considered.
+**Requirements and considerations**
 - [] ...
 
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context, alternative solutions you considered or screenshots about the story here.
