@@ -19,8 +19,8 @@ A clear and concise proposal of what a demo might look like when this story is c
 - [] ...
 
 
-**Requirements and considerations**
-If needed a more extensive list of requirements that need to be checked when completing this story
+**Proposed requrements**
+If needed a more extensive list of considerations and alternatives that might be checked when completing this story
 - [] ...
 
 
