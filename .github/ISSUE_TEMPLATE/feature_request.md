@@ -20,7 +20,7 @@ A clear and concise proposal of what a demo might look like when this story is c
 
 
 **Proposed requirements**
-If needed a more extensive list of considerations and alternatives that might be checked when completing this story
+If needed a more extensive list of considerations and alternatives that might be checked when completing this story, to be extended when we really start the story.
 - [] discuss the proposed solution with product owner/PL
 - [] ...
 
