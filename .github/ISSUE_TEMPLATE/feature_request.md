@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Objectives**
-A clear and concise description of what this change aims to achieve and for whom and why.
+A clear and concise description of what need this change addresses and for whom and why.
 - [] ...
 
 
