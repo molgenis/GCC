@@ -1,6 +1,6 @@
 ---
 name: Story template
-about: Suggest change of data, software, process or system
+about: Suggest change of data, software, document or system
 title: 'feat: data: task:'
 labels: ''
 assignees: ''
