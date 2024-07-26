@@ -12,8 +12,8 @@ A clear and concise description of what need this change addresses and for whom 
 - [] ...
 
 
-**Proposed demo when done**
-A clear and concise proposal of what the demo might show:
+**Proposed demo**
+A clear and concise proposal of what the demo might look like when this story is completed:
 - [] ...
 
 
