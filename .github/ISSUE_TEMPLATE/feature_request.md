@@ -9,8 +9,8 @@ assignees: ''
 
 **Objectives**
 A clear and concise description of what need this change addresses and for whom and why.
-- achieve ..
-- for ...
+- as a .. user/manager/owner
+- i want to achieve ...
 - so that ...
 
 
