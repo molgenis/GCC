@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Objectives**
-A clear and concise description of what need this change addresses and for whom and why.
+A clear and concise description of what need or problem this change addresses and for whom and why.
 - as a .. user/manager/owner
 - i want to achieve ...
 - so that ...
