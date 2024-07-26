@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an enhancement or new feature
+name: Story template
+about: Suggest an enhancement or new feature of data or software
 title: 'feat:'
 labels: ''
 assignees: ''
