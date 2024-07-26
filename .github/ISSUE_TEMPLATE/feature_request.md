@@ -1,6 +1,6 @@
 ---
 name: Story template
-about: Suggest change of data, software, document or system
+about: Suggest change of data, software, document or system that can be done in less than one sprint. Otherwise call it 'epic'
 title: 'feat: data: task:'
 labels: ''
 assignees: ''
