@@ -1,6 +1,6 @@
 ---
 name: Story template
-about: Suggest an enhancement or new feature of data or software
+about: Suggest change of data, software, process or system
 title: 'feat: data: task:'
 labels: ''
 assignees: ''
