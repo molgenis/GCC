@@ -18,6 +18,7 @@ A clear and concise proposal of what the demo might look like when this story is
 
 
 **Requirements and considerations**
+If needed a more extensive list of requirements that need to be checked when completing this story
 - [] ...
 
 
