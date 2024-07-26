@@ -10,7 +10,7 @@ assignees: ''
 **Objective**
 A clear and concise description of what need or problem this story addresses and for whom and why (not how).
 - as a .. catalogue/portal/registry/armdillo/platform/... viewer/editor/manager/owner/...
-- I want to ... (something I can/have not currently)
+- I want ... (some behavior/resource I have not currently)
 - so that ... (objective/outcome here)
 
 
