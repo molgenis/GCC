@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Objective**
-A clear and concise description of what need or problem this change addresses and for whom and why (not how).
+A clear and concise description of what need or problem this story addresses and for whom and why (not how).
 - as a .. catalogue/portal/registry/armdillo/platform/... viewer/editor/manager/owner/...
 - i want to ... (something I cannot do/have now)
 - so that ... (objective here)
@@ -19,11 +19,13 @@ A clear and concise proposal of what a demo might look like when this story is c
 - [] ...
 
 
-**Proposed requrements**
+**Proposed requirements**
 If needed a more extensive list of considerations and alternatives that might be checked when completing this story
 - [] discuss the proposed solution with product owner/PL
 - [] ...
 
+**Implementation suggestion (optional)**
+If you can't resist you can here describe 'how' you think this story should be implemented
 
-**Additional context**
+**Additional context (optional)**
 Add any other context, alternative solutions you considered or screenshots about the story here.
