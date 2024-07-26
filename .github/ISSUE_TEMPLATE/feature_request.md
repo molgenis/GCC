@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Objectives**
+**Objective**
 A clear and concise description of what need or problem this change addresses and for whom and why.
 - as a .. user/manager/owner
 - i want to ...
