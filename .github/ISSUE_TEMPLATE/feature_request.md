@@ -1,7 +1,7 @@
 ---
 name: Story template
 about: Suggest change of data, software, document or system that can be done in less than one sprint. Otherwise call it 'epic'
-title: 'feat: data: docs: epic: '
+title: 'feat: data: docs: epic: build: (commitizen friendly)'
 labels: ''
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 **Objectives**
 A clear and concise description of what need or problem this change addresses and for whom and why.
 - as a .. user/manager/owner
-- i want to achieve ...
+- i want to ...
 - so that ...
 
 
