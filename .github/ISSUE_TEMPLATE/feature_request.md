@@ -8,14 +8,14 @@ assignees: ''
 ---
 
 **Objective**
-A clear and concise description of what need or problem this change addresses and for whom and why.
+A clear and concise description of what need or problem this change addresses and for whom and why (not how).
 - as a .. catalogue/portal/registry/armdillo/platform/... viewer/editor/manager/owner/...
-- i want to ...
-- so that ...
+- i want to ... (something I cannot do/have now)
+- so that ... (objective here)
 
 
 **Proposed demo**
-A clear and concise proposal of what the demo might look like when this story is completed (without precisely specifying 'how' so implementator can make intelligent choices):
+A clear and concise proposal of what a demo might look like when this story is completed (ideally without precisely specifying 'how' so implementator can make creative choices):
 - [] ...
 
 
