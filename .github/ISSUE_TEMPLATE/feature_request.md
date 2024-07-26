@@ -13,7 +13,7 @@ A clear and concise description of what need this change addresses and for whom 
 
 
 **Proposed demo**
-A clear and concise proposal of what the demo might look like when this story is completed (without precisely specifying 'how'):
+A clear and concise proposal of what the demo might look like when this story is completed (without precisely specifying 'how' so implementator can make intelligent choices):
 - [] ...
 
 
