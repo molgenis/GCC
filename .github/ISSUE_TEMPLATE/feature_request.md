@@ -7,14 +7,17 @@ assignees: ''
 
 ---
 
-**Demo**
-A clear and concise description of what the demo should be.
+**Objectives**
+A clear and concise description of what this change aims to achieve and for whom and why.
+- [] ...
 
-**Motivation**
-A clear and concise description of what problem this feature solves and for which communities.
+**Proposed changes/demo**
+A clear and concise proposal of what the demo might show:
+- [] ...
 
-**Describe additional requirements**
+**Requirements and consideratioins**
 A clear and concise description of any alternative solutions or features you've considered.
+- [] ...
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
