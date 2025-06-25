@@ -8,11 +8,11 @@ For planning we use the ["Molgenis Team" project](https://github.com/orgs/molgen
 
 We have use specific fields in this project to manage the board.
 
-1. Team (Armadillo, Catalogue, Dev, Ops, Portal): the team to which this is assigned.
+1. Team: the team to which this is assigned;
 2. Product: The component or product that it belongs to. Different 'apps' in EMX2,
-   documentation, emx2-backend, etc.
-3. Sprint: The sprint for which it is planned
-4. Status: The status of a ticket: Backlog, Blocked, Working, Review, Done
+   documentation, emx2-backend, etc.;
+3. Sprint: The sprint for which it is planned;
+4. Status: The status of a ticket: Backlog, Blocked, Working, Review, Done;
 5. Labels: [Labels](https://github.com/molgenis/GCC/labels) are used to indicate stakeholders.
    A stakeholder is a specific projects or clusters of projects, or internal if we ourselves
    are the main stakeholder. An issue can be assigned to multiple stakeholders.
