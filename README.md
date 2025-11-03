@@ -9,3 +9,5 @@ Some guidance:
 * green labels for communities (e.g. 'ern', 'biobanks','cohorts')
 * 
 
+## Fixes
+This repository may also contain fixes for issues filed here. See the `fixes/` directory and related documentation files for applied fixes.
