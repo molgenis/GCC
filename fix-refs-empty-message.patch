@@ -1,0 +1,12 @@
+diff --git a/apps/tailwind-components/app/components/input/Ref.vue b/apps/tailwind-components/app/components/input/Ref.vue
+index ccd952d..d8343a5 100644
+--- a/apps/tailwind-components/app/components/input/Ref.vue
++++ b/apps/tailwind-components/app/components/input/Ref.vue
+@@ -316,6 +316,6 @@ prepareModel();
+         >Clear</ButtonText
+       >
+     </template>
+-    <ButtonText v-else>No results found</ButtonText>
++    <ButtonText v-else>{{ searchTerms ? 'No results found' : 'No options available' }}</ButtonText>
+   </InputGroupContainer>
+ </template>
