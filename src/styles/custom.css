@@ -1,0 +1,169 @@
+/* MOLGENIS brand fonts */
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('/preview-docs-2026/fonts/BebasNeue-Regular.woff2') format('woff2'),
+		url('/preview-docs-2026/fonts/BebasNeue-Bold.woff') format('woff');
+	font-weight: 400 700;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'IBM Plex Sans';
+	src: url('/preview-docs-2026/fonts/IBMPlexSans-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'IBM Plex Mono';
+	src: url('/preview-docs-2026/fonts/IBMPlexMono-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'IBM Plex Mono';
+	src: url('/preview-docs-2026/fonts/IBMPlexMono-LightItalic.woff') format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+/*
+ * Starlight color system reminder:
+ *   :root           = dark mode  → white=lightest, black=darkest (bg)
+ *   [data-theme=light] = light mode → white=darkest, black=lightest (bg)
+ *   (the scale inverts between modes)
+ */
+
+/* ── Dark mode ── */
+:root {
+	/* Accent: MOLGENIS blue */
+	--sl-color-accent-low: #012a54;
+	--sl-color-accent: #017FFD;
+	--sl-color-accent-high: #8dc4fe;
+
+	/* Gray scale: dark mode (white→black = light→dark) */
+	--sl-color-white: #f5f5f5;
+	--sl-color-gray-1: #e0e0e0;
+	--sl-color-gray-2: #b0b0b0;
+	--sl-color-gray-3: #7a7a7a;
+	--sl-color-gray-4: #555555;
+	--sl-color-gray-5: #3a3a3a;
+	--sl-color-gray-6: #282828;
+	--sl-color-black: #1b1b1b;
+
+	/* Typography */
+	--sl-font: 'IBM Plex Sans', Roboto, system-ui, sans-serif;
+	--sl-font-mono: 'IBM Plex Mono', 'Roboto Mono', ui-monospace, monospace;
+
+	/* MOLGENIS brand tokens */
+	--mg-blue: #017FFD;
+	--mg-green: #72F6B2;
+	--mg-dark: #353535;
+	--mg-hover-blue: #0066CC;
+}
+
+/* ── Light mode — clean white like molgenis.org ── */
+:root[data-theme='light'] {
+	/* Accent scale (inverted direction for light) */
+	--sl-color-accent-low: #dfeeff;
+	--sl-color-accent: #017FFD;
+	--sl-color-accent-high: #004a99;
+
+	/* Gray scale: light mode (white→black = dark→light) */
+	--sl-color-white: #353535;     /* darkest text */
+	--sl-color-gray-1: #444444;    /* secondary text */
+	--sl-color-gray-2: #636363;    /* muted text */
+	--sl-color-gray-3: #898989;    /* subtle text */
+	--sl-color-gray-4: #b0b0b0;   /* borders */
+	--sl-color-gray-5: #d8d8d8;   /* light borders */
+	--sl-color-gray-6: #f2f2f2;   /* subtle backgrounds */
+	--sl-color-gray-7: #f9f9f9;   /* nav bg */
+	--sl-color-black: #ffffff;     /* main background */
+}
+
+/* ── Headings: Bebas Neue like molgenis.org ── */
+h1, h2, h3,
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3 {
+	font-family: 'Bebas Neue', Oswald, sans-serif;
+	letter-spacing: 0.04em;
+}
+
+/* Hero section sizing */
+.hero h1 {
+	font-size: 3rem !important;
+}
+
+/* ── Links: molgenis.org style ── */
+.sl-markdown-content a {
+	text-underline-offset: 2px;
+}
+
+/* ── Sidebar: green accent on active item ── */
+nav[aria-label="Main"] a[aria-current="page"] {
+	border-inline-start-color: var(--mg-green) !important;
+}
+
+/* ── Cards: molgenis-blue hover ── */
+.sl-link-card:hover,
+.card:hover {
+	border-color: var(--mg-blue);
+	box-shadow: 0 2px 16px rgba(1, 127, 253, 0.12);
+}
+
+/* ── Code blocks ── */
+code, pre {
+	font-size: 0.875em;
+}
+
+/* ── Blockquotes: molgenis.org italic mono style ── */
+blockquote {
+	font-family: 'IBM Plex Mono', monospace;
+	font-weight: 300;
+	font-style: italic;
+	border-inline-start-color: var(--mg-green);
+}
+
+/* ── Header bar: blue top accent ── */
+header.header {
+	border-top: 3px solid var(--mg-blue);
+}
+
+/* ── Focus states ── */
+:focus-visible {
+	outline: 3px solid var(--mg-blue);
+	outline-offset: 2px;
+}
+
+/* ── Callout boxes ── */
+.starlight-aside--note {
+	border-color: var(--mg-blue);
+}
+.starlight-aside--tip {
+	border-color: var(--mg-green);
+}
+
+/* ── Tables ── */
+.sl-markdown-content table {
+	border-collapse: collapse;
+}
+.sl-markdown-content th {
+	background: var(--sl-color-gray-6);
+	font-family: 'Bebas Neue', Oswald, sans-serif;
+	letter-spacing: 0.03em;
+	font-size: 0.95em;
+}
+.sl-markdown-content td,
+.sl-markdown-content th {
+	padding: 0.6rem 1rem;
+}
+
+/* ── Card transitions ── */
+.sl-markdown-content .sl-link-card {
+	transition: border-color 0.2s, box-shadow 0.2s;
+}
