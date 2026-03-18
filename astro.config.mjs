@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://molgenis.github.io',
-	base: '/GCC',
+	base: '/GCC/xK7mQ3docs',
 	integrations: [
 		starlight({
 			title: 'MOLGENIS Docs',
@@ -31,7 +31,7 @@ export default defineConfig({
 					attrs: {
 						rel: 'apple-touch-icon',
 						sizes: '180x180',
-						href: '/GCC/apple-touch-icon.png',
+						href: '/GCC/xK7mQ3docs/apple-touch-icon.png',
 					},
 				},
 			],

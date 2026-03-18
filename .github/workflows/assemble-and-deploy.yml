@@ -33,10 +33,16 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Move into subfolder for obscure path
+        run: |
+          mkdir -p _site/xK7mQ3docs
+          mv dist/* _site/xK7mQ3docs/
+          cp public/robots.txt _site/robots.txt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: _site
 
   deploy:
     needs: build
