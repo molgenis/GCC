@@ -195,6 +195,6 @@ DataSHIELD's built-in disclosure controls prevent:
 
 ## Next steps
 
-- [Data Catalogue](/docs/catalogue/) — make your cohort data discoverable
+- [Data Catalogue](/GCC/xK7mQ3docs/catalogue/) — make your cohort data discoverable
 - [Armadillo documentation](https://molgenis.github.io/molgenis-service-armadillo) — advanced server configuration
 - [DataSHIELD packages](https://www.datashield.org/) — explore available analysis functions

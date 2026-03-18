@@ -182,13 +182,13 @@ Point your DNS to the server and you're live.
 From this base scenario, common enhancements include:
 
 - **Adding a FAIR Data Point** — the catalogue automatically exposes DCAT-AP metadata at the `/api/fdp` endpoint
-- **Connecting Armadillo** — enable federated analysis so researchers can run DataSHIELD scripts against cohort data without downloading it. See [Armadillo Overview](/docs/armadillo/)
+- **Connecting Armadillo** — enable federated analysis so researchers can run DataSHIELD scripts against cohort data without downloading it. See [Armadillo Overview](/GCC/xK7mQ3docs/armadillo/)
 - **Custom landing page sections** — use `CATALOGUE_ALL_ADDITIONAL_HTML` to add project-specific content
 - **Multi-language support** — set `locales` to enable translated labels in data-entry forms
 - **Extending the data model** — add custom tables or columns to the catalogue schema for project-specific metadata
 
 ## Next steps
 
-- [Configuring Your Catalogue](/docs/catalogue/howto-configure/) — full settings reference
-- [Armadillo: Federated Analysis](/docs/armadillo/) — connect your catalogue to DataSHIELD
-- [EMX2 Data Model](/docs/concepts/emx2/) — customise the schema
+- [Configuring Your Catalogue](/GCC/xK7mQ3docs/catalogue/howto-configure/) — full settings reference
+- [Armadillo: Federated Analysis](/GCC/xK7mQ3docs/armadillo/) — connect your catalogue to DataSHIELD
+- [EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) — customise the schema

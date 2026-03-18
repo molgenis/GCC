@@ -17,7 +17,7 @@ An international consortium of five dermatology centres wants to create a shared
 
 ## Phase 1: Deploy and create the database
 
-Start MOLGENIS with Docker Compose (see [Installation](/docs/platform/installation/)), then:
+Start MOLGENIS with Docker Compose (see [Installation](/GCC/xK7mQ3docs/platform/installation/)), then:
 
 1. Sign in as admin
 2. Create a new database named `hcs-registry`
@@ -168,6 +168,6 @@ Researchers can:
 
 ## Next steps
 
-- [The EMX2 Data Model](/docs/concepts/emx2/) — deep dive into schema design
-- [Permissions & Security](/docs/platform/permissions/) — OIDC setup and role management
-- [APIs](/docs/platform/apis/) — programmatic access for analysis pipelines
+- [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) — deep dive into schema design
+- [Permissions & Security](/GCC/xK7mQ3docs/platform/permissions/) — OIDC setup and role management
+- [APIs](/GCC/xK7mQ3docs/platform/apis/) — programmatic access for analysis pipelines

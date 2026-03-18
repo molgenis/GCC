@@ -46,7 +46,7 @@ The catalogue uses the **Data Catalogue** schema template built on EMX2. Core en
 - **Networks** — consortia or collaborations that group multiple resources
 - **Organisations** and **Contacts** — institutional metadata
 
-See [The EMX2 Data Model](/docs/concepts/emx2/) for the underlying schema mechanics.
+See [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) for the underlying schema mechanics.
 
 ## Architecture
 
@@ -64,6 +64,6 @@ The catalogue is a Vue.js/Nuxt application that runs on top of the MOLGENIS EMX2
 
 ## Next steps
 
-- [Getting Started](/docs/catalogue/getting-started/) — set up your first catalogue instance
-- [Scenarios](/docs/catalogue/scenarios/) — end-to-end walkthrough: catalogue for a five-cohort consortium
-- [Configuring Your Catalogue](/docs/catalogue/howto-configure/) — theming, landing page, analytics
+- [Getting Started](/GCC/xK7mQ3docs/catalogue/getting-started/) — set up your first catalogue instance
+- [Scenarios](/GCC/xK7mQ3docs/catalogue/scenarios/) — end-to-end walkthrough: catalogue for a five-cohort consortium
+- [Configuring Your Catalogue](/GCC/xK7mQ3docs/catalogue/howto-configure/) — theming, landing page, analytics

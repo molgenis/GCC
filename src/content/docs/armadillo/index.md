@@ -67,6 +67,6 @@ Traditional multi-cohort research requires pooling data in a central location. T
 
 ## Next steps
 
-- [Getting Started](/docs/armadillo/getting-started/) — deploy your first Armadillo server
-- [Scenarios](/docs/armadillo/scenarios/) — end-to-end walkthrough: federated BMI analysis across three cohorts
-- [Data Catalogue](/docs/catalogue/) — catalogue your cohort metadata alongside Armadillo
+- [Getting Started](/GCC/xK7mQ3docs/armadillo/getting-started/) — deploy your first Armadillo server
+- [Scenarios](/GCC/xK7mQ3docs/armadillo/scenarios/) — end-to-end walkthrough: federated BMI analysis across three cohorts
+- [Data Catalogue](/GCC/xK7mQ3docs/catalogue/) — catalogue your cohort metadata alongside Armadillo

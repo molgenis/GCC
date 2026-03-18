@@ -139,6 +139,6 @@ DSI::datashield.logout(connections)
 
 ## Next steps
 
-- [Scenarios](/docs/armadillo/scenarios/) — complete walkthrough: federated BMI analysis across three cohorts
+- [Scenarios](/GCC/xK7mQ3docs/armadillo/scenarios/) — complete walkthrough: federated BMI analysis across three cohorts
 - [Armadillo documentation](https://molgenis.github.io/molgenis-service-armadillo) — full server administration guide
 - [DataSHIELD wiki](https://www.datashield.org/) — available analysis functions and tutorials

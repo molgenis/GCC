@@ -131,7 +131,7 @@ Key settings you can change (under **Settings** in your database):
 
 For theming (colours and style), set the `CATALOGUE_THEME` setting or the `NUXT_PUBLIC_EMX2_THEME` environment variable.
 
-See [Configuring Your Catalogue](/docs/catalogue/howto-configure/) for the full list of settings.
+See [Configuring Your Catalogue](/GCC/xK7mQ3docs/catalogue/howto-configure/) for the full list of settings.
 
 ## 7. Set up user access
 
@@ -147,10 +147,10 @@ To add a user:
 1. Go to **Members** in your database
 2. Add the user's email and assign a role
 
-For single sign-on, configure OIDC — see [Permissions & Security](/docs/platform/permissions/).
+For single sign-on, configure OIDC — see [Permissions & Security](/GCC/xK7mQ3docs/platform/permissions/).
 
 ## Next steps
 
-- [Scenarios](/docs/catalogue/scenarios/) — end-to-end walkthrough of setting up a multi-cohort catalogue
-- [Configuring Your Catalogue](/docs/catalogue/howto-configure/) — full settings reference
-- [The EMX2 Data Model](/docs/concepts/emx2/) — understand schemas and column types
+- [Scenarios](/GCC/xK7mQ3docs/catalogue/scenarios/) — end-to-end walkthrough of setting up a multi-cohort catalogue
+- [Configuring Your Catalogue](/GCC/xK7mQ3docs/catalogue/howto-configure/) — full settings reference
+- [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) — understand schemas and column types

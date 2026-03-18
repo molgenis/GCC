@@ -48,7 +48,7 @@ Choose the catalogue when:
 
 Real-world examples: BBMRI-ERIC Directory (515+ biobanks across Europe), LifeLines Data Catalogue (167,000 participants), RD-Connect Sample Catalogue.
 
-[Get started with the Catalogue →](/docs/catalogue/getting-started/)
+[Get started with the Catalogue →](/GCC/xK7mQ3docs/catalogue/getting-started/)
 
 ## When to use a Patient Registry
 
@@ -61,7 +61,7 @@ Choose the registry when:
 
 Real-world examples: Deb-Central (Epidermolysis Bullosa), MVID-Central (Microvillus Inclusion Disease), ARVD/C Genetic Variants Database, CHD7/CHARGE database.
 
-[Learn about the Registry →](/docs/registry/)
+[Learn about the Registry →](/GCC/xK7mQ3docs/registry/)
 
 ## When to use Armadillo
 
@@ -75,7 +75,7 @@ Armadillo is often used **alongside** a Data Catalogue — the catalogue makes t
 
 Real-world examples: LifeCycle (19 birth cohorts), ATHLETE (exposome), LongITools (cardiovascular), CONCEPTION (medication safety in pregnancy).
 
-[Get started with Armadillo →](/docs/armadillo/getting-started/)
+[Get started with Armadillo →](/GCC/xK7mQ3docs/armadillo/getting-started/)
 
 ## When to build a custom database
 
@@ -84,7 +84,7 @@ Choose a blank EMX2 schema when:
 - You need a **bespoke data model** for a specific research project
 - You want the EMX2 platform features (GraphQL API, forms, permissions, file storage) but with your own table structure
 
-Start by reading [The EMX2 Data Model](/docs/concepts/emx2/) and then create a database without a template.
+Start by reading [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) and then create a database without a template.
 
 ## Combining solutions
 

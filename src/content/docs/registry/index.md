@@ -35,14 +35,14 @@ MOLGENIS registries are used worldwide for rare-disease research:
 
 ## Getting started
 
-1. Deploy MOLGENIS EMX2 (see [Installation](/docs/platform/installation/))
+1. Deploy MOLGENIS EMX2 (see [Installation](/GCC/xK7mQ3docs/platform/installation/))
 2. Create a new database and choose a registry template (or design your own schema)
 3. Define your tables: patients, diagnoses, genetic variants, clinical observations
 4. Set up ontology columns for standardised coding
 5. Enable the changelog: set `isChangelogEnabled: true` in database settings
 6. Add users and assign roles (viewer, editor, manager)
 
-For the data model mechanics, see [The EMX2 Data Model](/docs/concepts/emx2/).
+For the data model mechanics, see [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/).
 
 ## Architecture
 
@@ -56,6 +56,6 @@ Registries run on the same MOLGENIS EMX2 platform as catalogues. The key differe
 
 ## Next steps
 
-- [Scenarios](/docs/registry/scenarios/) — end-to-end walkthrough: building a rare-disease patient registry
-- [The EMX2 Data Model](/docs/concepts/emx2/) — schema design for registries
-- [Choosing a Solution](/docs/concepts/choosing/) — registry vs. catalogue vs. custom database
+- [Scenarios](/GCC/xK7mQ3docs/registry/scenarios/) — end-to-end walkthrough: building a rare-disease patient registry
+- [The EMX2 Data Model](/GCC/xK7mQ3docs/concepts/emx2/) — schema design for registries
+- [Choosing a Solution](/GCC/xK7mQ3docs/concepts/choosing/) — registry vs. catalogue vs. custom database
