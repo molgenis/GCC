@@ -1,0 +1,8 @@
+[submodule "sources/molgenis-emx2"]
+	path = sources/molgenis-emx2
+	url = git@github.com:molgenis/molgenis-emx2.git
+	branch = master
+[submodule "sources/molgenis.org"]
+	path = sources/molgenis.org
+	url = git@github.com:molgenis/molgenis.org.git
+	branch = master
